@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	/*
-	skip "apple" ina given string.
+	skip "apple" in a given string.
 	 */
         String str = "bccapplenit";
         System.out.println(skipApple(str));
