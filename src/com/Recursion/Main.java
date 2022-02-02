@@ -23,3 +23,6 @@ public class Main {
     }
 
 }
+/* in this we are checking that if the string starts with apple them we will skip it by starting the next
+   recursive call after the length of the given word that is apple.
+ */
